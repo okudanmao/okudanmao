@@ -1,2 +1,2 @@
-<img align="center"  src = "https://i0.wp.com/khosann.com/wp-content/uploads/2017/05/ezgif.com-resize.gif?resize=600%2C263&ssl=1"></img>
+<img align="center"  src = "https://miro.medium.com/max/1400/1*i8-u-V8LTTbQwTeUwLI_BQ.gif"></img>
 <h1 align="center">Hi 👋, I'm Mehmet</h1>
