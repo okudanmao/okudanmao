@@ -1,2 +1,2 @@
-<img align="center"  src = "https://miro.medium.com/max/1400/1*i8-u-V8LTTbQwTeUwLI_BQ.gif"></img>
+<img align="https://www.webhostuzmani.com/wp-content/uploads/2019/04/javascript-illustration1.png"></img>
 <h1 align="center">Hi 👋, I'm Mehmet</h1>
