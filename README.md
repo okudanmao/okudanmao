@@ -1,2 +1,2 @@
-<img align="https://www.webhostuzmani.com/wp-content/uploads/2019/04/javascript-illustration1.png"></img>
+<img align="https://birparcatuhaftik.com/wp-content/uploads/2020/04/c.jpg"></img>
 <h1 align="center">Hi 👋, I'm Mehmet</h1>
