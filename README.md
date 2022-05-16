@@ -1,2 +1,2 @@
-<img align="https://www.technotification.com/wp-content/uploads/2018/11/learn-C-sharp-programming.jpg"></img>
+<img align="https://coindsyz.com/wp-content/uploads/2022/03/1584023795.gif"></img>
 <h1 align="center">Hi 👋, I'm Mehmet</h1>
